@@ -1,1 +1,1 @@
-# The-Hurdle-Race-algo
+# The-Hurdle-Race-algo This program determines how many magic potions the runner needs to jump the highest hurdle. If the tallest hurdle is higher than the runner’s natural jump height k, it returns the difference; otherwise, it returns 0.
